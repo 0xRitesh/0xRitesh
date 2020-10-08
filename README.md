@@ -1,6 +1,6 @@
 ### Hello! world 
 
-- 💡 studing computer science.
+- 💡 currently studing computer science.
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaboration 
 - 🤔 I’m looking for help with DevOps
