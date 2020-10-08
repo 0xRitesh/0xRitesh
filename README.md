@@ -1,14 +1,16 @@
 ### Hi there 👋
 
 - 💡 studing computer science.
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate 
-- 🤔 I’m looking for help with ...
-- ✍️ Check out my blogspot profile where I write some articles: [Blog](https://wordssaysalot.wordpress.com/ )
+- 👯 I’m looking to collaboration 
+- 🤔 I’m looking for help with DevOps
+- 🌱 2020 goals : contribute more in open source platform.
+- ✍️ Check out my blogspot profile where I write some articles: [Blog]
 - 📫 How to reach me: riteshraina00@gmail.com
-- ⚡ check out my instagram : [insta](https://www.instagram.com/forl0rn.skies/?hl=en)
+- ⚡ check out my [instagram]
 - 🐧 Visit my [LinkedIn] 
 
 
 [LinkedIn]: https://www.linkedin.com/in/ritesh-kumar-438b2119b/
+[instagram]: https://www.instagram.com/forl0rn.skies/?hl=en
+[Blog]: https://wordssaysalot.wordpress.com/ 
