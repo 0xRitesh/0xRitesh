@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! world 
 
 - 💡 studing computer science.
 - 🌱 I’m currently learning C++
