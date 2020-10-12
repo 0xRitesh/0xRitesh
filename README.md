@@ -2,7 +2,7 @@
 
 - 💡 currently studing computer science.
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaboration on wordpress
+- 👯 I’m looking to collaboration on my wordpress project
 - 🤔 I’m looking for help with DevOps
 - 🌱 2020 goals : contribute more in open source platform.
 - ✍️ Check out my blogspot profile where I write some articles: [Blog]
