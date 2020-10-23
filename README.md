@@ -12,5 +12,5 @@
 
 
 [LinkedIn]: https://www.linkedin.com/in/ritesh-kumar-438b2119b/
-[instagram]: https://www.instagram.com/forl0rn.skies/?hl=en
+[instagram]: https://www.instagram.com/wordssaysalot/
 [Blog]: https://wordssaysalot.wordpress.com/ 
