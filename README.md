@@ -11,6 +11,6 @@
 - 🐧 Visit my [LinkedIn] 
 
 
-[LinkedIn]: https://www.linkedin.com/in/ritesh-kumar-438b2119b/
+[LinkedIn]: www.linkedin.com/in/ritesh-kumar0
 [instagram]: https://www.instagram.com/wordssaysalot/
 [Blog]: https://wordssaysalot.wordpress.com/ 
