@@ -8,7 +8,7 @@
 - ✍️ Check out my blogspot profile where I write some blogs: [Blog]
 - 📫 How to reach me: riteshraina00@gmail.com
 - 🐧 Visit my [LinkedIn] 
-- ⚡ Let's Connect Would love to have a chat! |  [instagram] | [twitter]  |
+- ⚡ <b>Let's Connect,</b> Would love to have a chat! |  [instagram] | [twitter]  |
 
 
 [LinkedIn]: https://www.linkedin.com/in/ritesh-kumar0/
