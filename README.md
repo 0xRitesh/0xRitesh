@@ -1,4 +1,4 @@
-### Hello! world 
+### <b>Hello, World!</b>
 
 - 💡 currently studing computer science.
 - 🌱 I'm A Front-End Developer with an interest in UI Design.
