@@ -1,6 +1,6 @@
 ### <b>Hello, World!</b>
 
-- 💡 currently studing computer science.
+- 💡  Currently studing computer science.
 - 🌱 I'm A Front-End Developer with an interest in UI Design.
 - 👯 I’m looking to collaboration on my wordpress project.
 - 🤔 I love <b>HTML5,React,Tailwind,Firebase,UI/UXk,Node,Express.js,GraphQL</b>
