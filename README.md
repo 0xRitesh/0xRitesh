@@ -6,8 +6,8 @@
 - 🤔 I love <b>HTML5,React,Tailwind,Firebase,UI/UXk,Node,Express.js,GraphQL</b>
 - 🌱 2020 goals : contribute more in open source platform.
 - ✍️ Check out my blogspot profile where I write some blogs:  [Blog]
-- 📫 How to reach me: riteshraina00@gmail.com
-- 🐧 Visit my |[Website]|
+- 📫 How to reach me: therealritesh0@gmail.com
+- 🐧 Visit my [Website]
 - ⚡ <b>Let's Connect,</b> Would love to have a chat!<br><br>
 [![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](www.linkedin.com/in/ritesh-kumar0)
 [![Twitter](https://img.shields.io/twitter/follow/dewdropxd?color=blue&label=twitter%20&logo=twitter&style=plastic)](https://twitter.com/dewdropxD)
