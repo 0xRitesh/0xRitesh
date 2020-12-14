@@ -10,11 +10,9 @@
 - 🐧 Visit my [Website]
 - ⚡ <b>Let's Connect,</b> Would love to have a chat!<br><br>
 [![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-kumar0)
-[![Twitter](https://img.shields.io/twitter/follow/dewdropxd?color=blue&label=twitter%20&logo=twitter&style=plastic)](https://twitter.com/dewdropxD)
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/wordsaysalot/)
 [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057123879510) 
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/wordsaysalot/)
+[![Twitter](https://img.shields.io/twitter/follow/dewdropxd?color=blue&label=twitter%20&logo=twitter&style=plastic)](https://twitter.com/dewdropxD)
 
 [Blog]: https://wordssaysalot.wordpress.com/ 
 [twitter]: https://twitter.com/dewdropxD: 
