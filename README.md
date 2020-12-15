@@ -17,3 +17,6 @@
 [Blog]: https://wordssaysalot.wordpress.com/ 
 [twitter]: https://twitter.com/dewdropxD: 
 [Website]: https://wordssaysalot.netlify.app/
+
+<p align="center"><a href="https://github.com/wordssaysalot"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+
