@@ -1,4 +1,3 @@
-<p align="center"><a href="https://github.com/wordssaysalot"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 ### <h1>Hello, World!</h1>
 <h1 align="center"> 👋, I'm Ritesh Kumar</h1>
@@ -52,5 +51,6 @@
 [![Dev](https://img.shields.io/badge/DEV-Blog-yellowgreen)](https://dev.to/wordssaysalot)
 [![Gmail](https://img.shields.io/badge/Gmail-Message-red)](mailto:therealritesh0@gmail.com?Subject=hey)
 
+<p align="center"><a href="https://github.com/wordssaysalot"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 
