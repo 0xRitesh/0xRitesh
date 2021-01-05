@@ -66,8 +66,9 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-kumar0)
 [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057123879510) 
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/wordsaysalot/)
-[![Twitter](https://img.shields.io/twitter/follow/dewdropxd?color=blue&label=twitter%20&logo=twitter&style=plastic)](https://twitter.com/dewdropxD)
+[![Twitter Badge](https://img.shields.io/badge/dewdropxd-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dewdropxD)
 [![Dev](https://img.shields.io/badge/DEV-Blog-yellowgreen)](https://dev.to/wordssaysalot)
 [![Gmail](https://img.shields.io/badge/Gmail-Message-red)](mailto:therealritesh0@gmail.com?Subject=hey)
+[![Medium Badge](https://img.shields.io/badge/wordssaysalot-30302f?style=flat&logo=medium)](https://medium.com/@wordssaysalot)
 
 
