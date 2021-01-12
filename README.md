@@ -9,15 +9,13 @@
 
 - ✨ I'm A Full Stack Developer with an interest in UI Design.
 
-- 🔭 I’m currently working on **Gretatude**
+- 🔭 I’m currently working on [**Gretatude**](https://github.com/wordssaysalot/Gretatude)
 
 - 🌱 I’m currently learning **Blockchain, MySql, AWS, Angular, GraphQL, Big data, IOT**
 
-- 🤔 I’m looking for help with [Mysuru Destination Platform Project](https://github.com/wordssaysalot/Mysuru-Destination-Platform)
-
 - 💕 I love **HTML5,React,Tailwind,Firebase,UI/UX,Node,Express.js,GraphQL**
 
-- 👯 I’m looking to collaborate on [Wordpress project](https://github.com/wordssaysalot/wordpress)
+- 👯 I’m looking to collaborate on [**GoMysuru**](https://github.com/wordssaysalot/GoMysuru)
 
 - 👨‍💻 Some of my projects are available at my  [Github](https://github.com/wordssaysalot?tab=repositories)
 
