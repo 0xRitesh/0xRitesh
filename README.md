@@ -3,7 +3,7 @@
 
 ### <h1>Hello, World!</h1>
 <h1 align="center"> 👋, I'm Ritesh Kumar</h1>
-<h3 align="center">Copywriter 🐦  ||  Full Stack Developer 👨‍💻   ||  Ui/Ux Designer ⚛️  </h3>
+<h3 align="center">Copywriter 🐦  ||  Full Stack Developer 👨‍💻   ||  Ui/Ux Designer 🌆  </h3>
 
 - 🎓 Currently studing computer science.
 
