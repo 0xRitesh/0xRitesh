@@ -3,19 +3,19 @@
 
 ### <h1>Hello, World!</h1>
 <h1 align="center"> 👋, I'm Ritesh Kumar</h1>
-<h3 align="center">Copywriter 🐦 || Ui/Ux Designer ⚛️  ||  Full Stack Developer 👨‍💻 </h3>
+<h3 align="center">Copywriter 🐦  ||  Full Stack Developer 👨‍💻   ||  Ui/Ux Designer ⚛️  </h3>
 
 - 🎓 Currently studing computer science.
 
 - ✨ I'm A Full Stack Developer with an interest in UI Design.
 
-- 🔭 I’m currently working on [**Gretatude**](https://github.com/wordssaysalot/Gretatude)
+- 🔭 I’m currently working on [**Gretatude**](https://github.com/wordssaysalot/Gretatude) and [**Heimdall**](https://github.com/wordssaysalot/Heimdall)
 
-- 🌱 I’m currently learning **Blockchain, MySql, AWS, Angular, GraphQL, Big data, IOT**
+- 🌱 I’m currently learning **Blockchain, GCP, AWS, Angular, GraphQL, Big data, React, IOT**
 
-- 💕 I love **HTML5,React,Tailwind,Firebase,UI/UX,Node,Express.js,GraphQL**
+- 💕 I love **HTML5, CSS, Tailwind, Firebase, UI/UX, Node, Express.js, GraphQL, Mysql**
 
-- 👯 I’m looking to collaborate on [**GoMysuru**](https://github.com/wordssaysalot/GoMysuru)
+- 👯 I’m looking to collaborate on [**Gretatude**](https://github.com/wordssaysalot/Gretatude)
 
 - 👨‍💻 Some of my projects are available at my  [Github](https://github.com/wordssaysalot?tab=repositories)
 
