@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **therealritesh0@gmail.com**
 
-- ⚡ Fun fact **Sometimes i write Prose/poetry and wish to be an Author someday** [LINK](https://www.instagram.com/forl0rn.skies/)
+- ⚡ Fun fact **Sometimes i write Prose/poetry and wish to write a book someday** [LINK](https://www.instagram.com/forl0rn.skies/)
 
 - 🐧 Visit my [Website](https://wordssaysalot.netlify.app/)
 
