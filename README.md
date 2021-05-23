@@ -23,7 +23,7 @@
 
 - 💡 **Notion** is the operating system of Life
 
-- 📫 How to reach me **therealritesh0@gmail.com**
+- 📫 How to reach me **riteshkumar.py@gmail.com**
 
 - ⚡ Fun fact **Sometimes i write Prose/poetry and wish to write a book someday** [LINK](https://www.instagram.com/forl0rn.skies/)
 
