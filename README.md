@@ -3,7 +3,7 @@
 
 ### <h1>Hello, World!</h1>
 <h1 align="center"> 👋, I'm Ritesh Kumar</h1>
-<h3 align="center">Copywriter 🐦  ||  Full Stack Developer 👨‍💻   ||  Ui/Ux Designer 🌎   </h3>
+<h3 align="center">A aspiring  Full Stack Developer 👨‍💻     </h3>
 
 - 🎓 Currently studing computer science.
 
@@ -58,12 +58,14 @@
 
 - ⚡ <b>Let's Connect,</b> Would love to have a chat!
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-kumar0)
-[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057123879510) 
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/wordsaysalot/)
-[![Twitter Badge](https://img.shields.io/badge/dewdropxd-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dewdropxD)
-[![Dev](https://img.shields.io/badge/DEV-Blog-yellowgreen)](https://dev.to/wordssaysalot)
-[![Gmail](https://img.shields.io/badge/Gmail-Message-red)](mailto:therealritesh0@gmail.com?Subject=hey)
-[![Medium Badge](https://img.shields.io/badge/wordssaysalot-30302f?style=flat&logo=medium)](https://medium.com/@wordssaysalot)
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/ritesh-kumar0"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/dewdropxD"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:riteshkumar.py@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/wordsaysalot/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@wordssaysalot"><img src ="https://img.shields.io/badge/Medium-111111?&style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://hashnode.com/@wordssaysalot"><img src="https://img.shields.io/badge/hashnode-2962FF?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
+<hr>
 
