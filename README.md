@@ -3,19 +3,19 @@
 
 ### <h1>Hello, World!</h1>
 <h1 align="center"> 👋, I'm Ritesh Kumar</h1>
-<h3 align="center">A aspiring  Full Stack Developer 👨‍💻     </h3>
+<h3 align="center">Full Stack JS guy 👨‍💻 ∩ Design 🔮 ∩  UX enthusiast 🎯   </h3>
 
 - 🎓 Currently studing computer science.
 
 - ✨ I'm A Full Stack Developer with an interest in UI Design.
 
-- 🔭 I’m currently working on [**Gretatude**](https://github.com/wordssaysalot/Gretatude) and [**Heimdall**](https://github.com/wordssaysalot/Heimdall)
+- 🔭 I’m currently working on [**Gretatude**](https://github.com/wordssaysalot/Gretatude) and [**GFG-KIIT-website**](https://github.com/wordssaysalot/GFG-KIIT-website)
 
-- 🌱 I’m currently learning **Blockchain, GCP, AWS, Angular, GraphQL, Big data, React, IOT**
+- 🌱 I’m currently learning **React JS, Product Design, and anything, everything Blockchain.**
 
 - 💕 I love **HTML5, CSS, Tailwind, Firebase, UI/UX, Node, Express.js, GraphQL, Mysql**
 
-- 👯 I’m looking to collaborate on [**Gretatude**](https://github.com/wordssaysalot/Gretatude)
+- 👯  I’m looking to collaborate on anything which solves real-world problems.
 
 - 👨‍💻 Some of my projects are available at my  [Github](https://github.com/wordssaysalot?tab=repositories)
 
@@ -23,7 +23,7 @@
 
 - 💡 **Notion** is the operating system of Life
 
-- 📫 How to reach me **riteshkumar.py@gmail.com**
+- 🔮 When not making tech products 📱, you'll find me doodling UI/UX Design 💻 & appreciating usability principles.
 
 - ⚡ Fun fact **Sometimes i write Prose/poetry and wish to write a book someday** [LINK](https://www.instagram.com/forl0rn.skies/)
 
