@@ -19,7 +19,7 @@
 
 - 👨‍💻 Some of my projects are available at my  [Github](https://github.com/wordssaysalot?tab=repositories)
 
-- 📝 I regulary write articles on [Medium](https://medium.com/@wordssaysalot)  
+- 📝 I regulary write articles on [Hashnode](https://wordssaysalot.hashnode.dev/)  
 
 - 💡 **Notion** is the operating system of Life
 
