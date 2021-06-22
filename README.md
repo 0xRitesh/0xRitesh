@@ -23,7 +23,7 @@
 
 - 💡 **Notion** is the operating system of Life
 
-- 🔮 When not making tech products 📱, you'll find me doodling UI/UX Design 💻 & appreciating usability principles.
+- 🔮 When not working on a project 📱, you'll find me doodling UI/UX Design 💻 & appreciating usability principles.
 
 - ⚡ Fun fact **Sometimes i write Prose/poetry and wish to write a book someday** [LINK](https://www.instagram.com/forl0rn.skies/)
 
