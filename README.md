@@ -7,11 +7,11 @@
 
 - 🎓 Currently studing computer science.
 
-- ✨ I'm A Full Stack Developer with an interest in UI Design.
+- ✨ I'm an aspiring Full Stack Developer with an interest in UI Design.
 
-- 🔭 I’m currently working on [**Gretatude**](https://github.com/wordssaysalot/Gretatude) and [**GFG-KIIT-website**](https://github.com/wordssaysalot/GFG-KIIT-website)
+- 🔭 I’m currently working on [**Pascaline**](https://github.com/wordssaysalot/Chrome-extensions/tree/main/Pascaline)
 
-- 🌱 I’m currently learning **React JS, Product Design, and anything, everything Blockchain.**
+- 🌱 I’m currently learning **angular, Product Design, and exploring Blockchain.**
 
 - 💕 I love **HTML5, CSS, Tailwind, Firebase, UI/UX, Node, Express.js, GraphQL, Mysql**
 
