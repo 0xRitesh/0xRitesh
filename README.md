@@ -9,7 +9,7 @@
 
 - ✨ I'm an aspiring Full Stack Developer with an interest in UI Design.
 
-- 🔭 I’m currently working on [**Pascaline**](https://github.com/wordssaysalot/Chrome-extensions/tree/main/Pascaline)
+- 🔭 I’m currently working on [**Empyrean**](https://github.com/vasant0/3jstempletes/tree/main/Empyrean-react)
 
 - 🌱 I’m currently learning **angular, Product Design, and exploring Blockchain.**
 
@@ -17,7 +17,7 @@
 
 - 👯  I’m looking to collaborate on anything which solves real-world problems.
 
-- 👨‍💻 Some of my projects are available at my  [Github](https://github.com/wordssaysalot?tab=repositories)
+- 👨‍💻 Some of my projects are available at my  [Github](https://github.com/wordssaysalot?tab=repositories) & [GitLab](https://gitlab.com/wordssaysalot)
 
 - 📝 I regulary write articles on [Hashnode](https://wordssaysalot.hashnode.dev/)  
 
