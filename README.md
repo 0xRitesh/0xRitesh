@@ -15,17 +15,17 @@
 
 - 💕 I love **HTML5, CSS, Tailwind, Firebase, UI/UX, Node, Express.js, GraphQL, Mysql**
 
-- 👯  I’m looking to collaborate on anything which solves real-world problems.
+- 👯 I'm passionate about working on open source projects & building thriving communities around them.
 
 - 👨‍💻 Some of my projects are available at my  [Github](https://github.com/wordssaysalot?tab=repositories) & [GitLab](https://gitlab.com/wordssaysalot)
 
-- 📝 I regulary write articles on [Hashnode](https://wordssaysalot.hashnode.dev/)  
+- 📝 I regulary write articles on [Hashnode](https://wordssaysalot.hashnode.dev/) 
 
 - 💡 **Notion** is the operating system of Life
 
 - 🔮 When not working on a project 📱, you'll find me doodling UI/UX Design 💻 & appreciating usability principles.
 
-- ⚡ Fun fact **Sometimes i write Prose/poetry and wish to write a book someday** [LINK](https://www.instagram.com/forl0rn.skies/)
+- ⚡ Fun fact **Sometimes i write Prose/poetry and wish to write a novel someday** [LINK](https://wordssaysalot.wordpress.com)
 
 - 🐧 Visit my [Website](https://wordssaysalot.netlify.app/)
 
