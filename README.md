@@ -9,7 +9,7 @@
 
 - ✨ I'm an aspiring Full Stack Developer with an interest in UI Design.
 
-- 🔭 I’m currently working on [**Empyrean**](https://github.com/vasant0/3jstempletes/tree/main/Empyrean-react)
+- 🔭 I’m currently working on [**Meta Drop**](https://github.com/0xRitesh/meta-nft-drop)
 
 - 🌱 I’m currently learning **angular, Product Design, and exploring Blockchain.**
 
